@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+
+# Model files (optional)
+*.keras
+*.h5
+
+# Dataset (optional)
+dataset/
+train/
+test/
+val/
+validation/
+
+# IDE
+.vscode/
+.idea/
